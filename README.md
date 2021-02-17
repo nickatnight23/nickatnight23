@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there my name is Latricia 👋
+### I just graduated from Flatiron scool and I am looking for software engineer roles.
 
 <!--
 **nickatnight23/nickatnight23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
