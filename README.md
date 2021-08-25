@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning solidity, web3, truffle, hardhat
 - 👯 I’m looking to collaborate on blockchain projects
 - 🤔 I’m looking to pair program
-- 💬 Ask me about ...
+- 💬 Ask me about anything that you are curious about
 - 📫 How to reach me: https://www.linkedin.com/in/lnickelberry/
 - 😄 Pronouns: she
 - ⚡ Fun fact: I won a dunking contest
