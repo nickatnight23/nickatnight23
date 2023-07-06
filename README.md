@@ -1,5 +1,5 @@
 ### Hi there my name is Latricia 👋
-###  Blockchain Developer open to new roles.
+###  Blockchain Developer/Security Researcher open to new roles.
 
 
 
